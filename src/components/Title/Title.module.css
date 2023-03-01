@@ -1,0 +1,67 @@
+.block__feature {
+    display: flex;
+    position: relative;
+    height: 45px;
+    width: 450px;
+    background-color: #F5F5F5;
+    left: 20px;
+}
+
+.block__id {
+    display: flex;
+    position: relative;
+    height: 15px;
+    width: 50px;
+    margin-top: 10px;
+}
+
+.id {
+    display: flex;
+    position: relative;
+    height: 15px;
+    width: 35px;
+}
+
+.block__title {
+    position: relative;
+    height: 80px;
+    width: 80px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.title {
+    position: relative;
+    height: 80px;
+    width: 80px;
+}
+
+.block__description {
+    display: flex;
+    position: relative;
+    height: 20px;
+    width: 180px;
+    margin-left: 50px;
+    margin-top: 10px;
+}
+
+.description {
+    position: relative;
+    height: 20px;
+    width: 180px;
+}
+
+.block__status {
+    display: flex;
+    position: relative;
+    height: 15px;
+    width: 15px;
+
+}
+
+.status {
+    margin-top: 10px;
+    position: relative;
+    height: 15px;
+    width: 15px;
+}

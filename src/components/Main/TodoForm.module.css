@@ -1,0 +1,60 @@
+.block {
+    display: flex;
+    height: 80px;
+    width: 650px;
+}
+
+.title__block {
+    display: inline-flex;
+    height: 50px;
+}
+
+.block__input {
+    display: block;
+    height: 20px;
+    width: 220px;
+}
+
+.input {
+    display: block;
+    height: 18px;
+    width: 220px;
+    outline: none ;
+}
+
+.title {
+    display: block;
+    position: relative;
+    height: 20px;
+    width: 100px;
+}
+
+.block__description {
+    display: block;
+    position: relative;
+    height: 80px;
+    width: 120px;
+    margin-left: 20px;
+}
+
+.description {
+    display: block;
+    position: relative;
+    height: 50px;
+    width: 100px;
+}
+
+.block__button {
+    display: block;
+    position: relative;
+    height: 80px;
+    width: 120px;
+    margin-left: 30px;
+}
+
+.button {
+    display: block;
+    position: relative;
+    height: 22px;
+    width: 100px;
+}
